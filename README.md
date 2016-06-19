@@ -4,7 +4,7 @@ This project was part of my computer vision assignment at the university. The ai
 
 You can see a [demonstration video](https://youtu.be/JN6Dae-F0i4) of the project on Youtube.
 
-You can also download a [brief report](http://www.davideabati.com/resources/kinect_reid) brief report, but only in italian :(
+You can also download a [brief report](http://www.davideabati.com/resources/kinect_reid.pdf) brief report, but only in italian :(
 
 ### How does it work?
 If you took a look at the video above, you probably already noticed that depth information is used to segment the person's body in different parts. In particular:
